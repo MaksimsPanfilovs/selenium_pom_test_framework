@@ -1,0 +1,26 @@
+### IntelliJ IDEA ###
+.idea/
+out/
+*.iws
+*.iml
+*.ipr
+
+*.log
+*.png
+
+### Maven ###
+target/
+
+### Allure ###
+allure-results/
+allure-report/
+.allure/
+
+### Test Report ###
+test_logs/
+test-output/
+surefire-reports/
+
+### OS files ###
+.DS_Store
+Thumbs.db
